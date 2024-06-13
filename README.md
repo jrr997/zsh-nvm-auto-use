@@ -18,11 +18,11 @@ This plugin helps you:
 
    - Clone this repository to your ZSH plugins directory:
      ```bash
-     git clone https://github.com/jrr997/zsh-nvm-auto-use.git $ZSH_CUSTOM/plugins/nvm-auto-use
+     git clone https://github.com/jrr997/zsh-nvm-auto-use.git $ZSH_CUSTOM/plugins/zsh-nvm-auto-use
      ```
    - Or download the `zsh-nvm-auto-use.plugin.zsh` file and place it in your ZSH plugins directory.
 
 3. **Enable the Plugin:** Add the plugin to your `.zshrc` file:
    ```zsh
-   plugins=(... nvm-auto-use)
+   source $ZSH_CUSTOM/plugins/zsh-nvm-auto-use/nvm-auto-use.plugin.zsh
    ```
