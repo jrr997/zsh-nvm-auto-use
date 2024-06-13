@@ -24,5 +24,7 @@ This plugin helps you:
 
 3. **Enable the Plugin:** Add the plugin to your `.zshrc` file:
    ```zsh
+   # dirs that make plugin activate, $HOME by default
+   # export NVM_AUTO_USE_DIRS=( "/path/to/where" )
    source $ZSH_CUSTOM/plugins/zsh-nvm-auto-use/nvm-auto-use.plugin.zsh
    ```
