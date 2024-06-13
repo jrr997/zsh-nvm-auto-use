@@ -18,7 +18,7 @@ This plugin helps you:
 
    - Clone this repository to your ZSH plugins directory:
      ```bash
-     git clone https://github.com/your-username/zsh-nvm-auto-use.git $ZSH_CUSTOM/plugins/nvm-auto-use
+     git clone https://github.com/jrr997/zsh-nvm-auto-use.git $ZSH_CUSTOM/plugins/nvm-auto-use
      ```
    - Or download the `zsh-nvm-auto-use.plugin.zsh` file and place it in your ZSH plugins directory.
 
